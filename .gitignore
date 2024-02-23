@@ -1,0 +1,45 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Core Codes
+components
+controllers
+demo
+features
+json
+styles
+utils
+
+node_modules
+dist-ssr
+*.local
+
+# Dev Env Files
+.eslintrc
+.hintrc
+.prettierrc
+index.html
+index.ts
+package-lock.json
+tsconfig.json
+vite-env.d.ts
+vite.config.ts
+vite.demo.ts
+yarn.lock
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
